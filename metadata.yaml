@@ -1,0 +1,34 @@
+_repo: The-Sanskrit-drama-b-in-its-origin-development-theory-and-practice_74314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keith, Arthur Berriedale
+    alias: Keith, A. Berriedale
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '57436'
+    url: http://www.gutenberg.org/2009/agents/57436
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Berriedale_Keith
+description: ''
+gutenberg_issued: '2024-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74314'
+language: en
+pgterms:marc904: https://archive.org/details/TheSanskritDramaA.B.Keith
+pgterms:marc905: 20230920114721keith
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bOxford University Press, $c1924, reprint 1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanskrit drama -- History and criticism'
+- !lcc 'PK'
+- GITenberg
+title: 'The Sanskrit drama : $b in its origin, development, theory and practice'
+url: http://www.gutenberg.org/ebooks/74314
