@@ -1,5 +1,8 @@
 _repo: The-Sanskrit-drama-b-in-its-origin-development-theory-and-practice_74314
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74314-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Keith, Arthur Berriedale
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57436
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Berriedale_Keith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74314#The-Sanskrit-drama-b-in-its-origin-development-theory-and-practice
 gutenberg_issued: '2024-08-25'
 gutenberg_type: Text
 identifiers:
